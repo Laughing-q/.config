@@ -11,3 +11,6 @@
 - [dmenu](https://github.com/LukeSmithxyz/dmenu) 
 - [dwmblocks](https://github.com/Laughing-q/dwmblocks) 
 - [wallpapers](https://github.com/Laughing-q/wallpapers)
+
+## File Manager
+- [ranger](https://github.com/Laughing-q/ranger) 
