@@ -18,3 +18,6 @@
 ## Wallpapers
 - [wallpapers](https://github.com/Laughing-q/wallpapers)
 - [https://wallpapercave.com/](https://wallpapercave.com/)
+
+## Emoji
+- [https://www.wikiemoji.com/](https://www.wikiemoji.com/)
