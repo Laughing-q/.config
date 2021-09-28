@@ -8,7 +8,7 @@
 
 ## Window Manager
 - [dwm](https://github.com/Laughing-q/dwm) 
-- [dmenu](https://github.com/LukeSmithxyz/dmenu) 
+- [dmenu](https://github.com/Laughing-q/dmenu) 
 - [dmscripts](https://github.com/Laughing-q/dmscripts) 
 - [dwmblocks](https://github.com/Laughing-q/dwmblocks) 
 
